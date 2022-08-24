@@ -99,7 +99,7 @@ p {
 
 #fotter-positio {
     text-align: center;
-    background-color: #e8a1f1;
+    background-color: #FFCACA;
 }
 
 #food-word {
@@ -250,7 +250,7 @@ p {
 }
 
 #fast-button {
-    background-color: #990000;
+    background-color: #ff0062;
     text-align: center;
     color: aliceblue;
     width: 80px;
@@ -269,6 +269,7 @@ form {
 .container {
     padding: 20px;
     background-color: #f1f1f1;
+    text-align: center;
 }
 
 input[type=text],
